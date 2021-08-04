@@ -1,7 +1,7 @@
  Blog-website
 
 Link: 
-git remote add origin https://github.com/bipinjaiswal1996/blog-website.git
+http://bipinjaiswal.pythonanywhere.com/
 
 Features:
 
